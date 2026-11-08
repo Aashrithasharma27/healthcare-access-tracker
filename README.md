@@ -80,7 +80,6 @@ or a better LOS model, before claiming the model improves capacity planning.
 3. `python prepare_data.py --input data/raw/train.csv --outdir data/processed`
 4. `python los_model.py`
 5. `python forecast_capacity.py`
-6. Open `dashboard/healthcare_tracker.pbix` in Power BI Desktop and refresh the data sources.
 
 ## Tools
 Python (pandas, scikit-learn, scipy, matplotlib), SQL (SQLite), Power BI (DAX)
