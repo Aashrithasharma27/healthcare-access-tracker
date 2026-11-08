@@ -1,0 +1,9 @@
+data/raw/
+data/processed/
+dashboard/los_predictions.csv
+dashboard/ward_alerts.csv
+dashboard/forecast_24h.csv
+dashboard/forecast_backtest.csv
+dashboard/healthcare_tracker.pbix
+*.db
+__pycache__/
